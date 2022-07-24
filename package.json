@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CatOrmerod/babysitters-club.git"
+    "url": "https://github.com/JemimaSiddiqui/The-Baby-Sitter-Hub-by-Jemima-Siddiqui.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CatOrmerod/babysitters-club/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/CatOrmerod/babysitters-club#readme"
+  "homepage": ""
 }
